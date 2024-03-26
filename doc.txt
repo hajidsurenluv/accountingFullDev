@@ -1,0 +1,24 @@
+lecture 1
+branch uusgeh
+git checkout -b sbtrgl
+git branch
+git push origin sbtrgl
+git checkout main
+
+git checkout sbtrgl 
+gj bgaa n uuriihu branchruu orj bga
+dir
+
+git merge origin/main
+
+
+git add.
+git commit-m "commentoo bichne"   -local dr
+git push                          -repository ru
+
+ed nar n ingeed mni branch deer mni coduud orchihno
+tgd 
+git pill req yvulhar mainru oroh req yvulna
+
+git merge origin main
+geheer shinechlegdsen
