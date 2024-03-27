@@ -14,13 +14,12 @@
 
 ## enkh
 
-
 ## Ganerdene init
-
 
 ## orgil init
 
 ## tulllga
 
-## bilguunmunkh init 
+## bilguunmunkh init
 
+## AMI INIT
