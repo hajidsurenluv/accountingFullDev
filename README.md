@@ -6,4 +6,4 @@
 ## Gkhaliun init
 ## sbtrgl init
 
-## Giikh init
+## Giikhnaran init
