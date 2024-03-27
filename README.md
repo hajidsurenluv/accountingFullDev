@@ -5,3 +5,5 @@
 ## Enkhboldzu init
 ## Gkhaliun init
 ## sbtrgl init
+
+## enkh
