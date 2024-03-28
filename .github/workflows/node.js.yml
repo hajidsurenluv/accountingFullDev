@@ -18,7 +18,7 @@ jobs:
       matrix:
         node-version: [20.11.1]
     env:
-      VUE_WEBSITE_URL: &{{secrets.VUE_WEBSITE_URL}}
+      VUE_WEBSITE_URL: ${{secrets.VUE_WEBSITE_URL}}
     steps:
     - uses: actions/checkout@v3
     - name: Use Node.js ${{ matrix.node-version }}
