@@ -27,7 +27,5 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install
-    - run: sudo apt-get install libcap2-bin 
-    - run: sudo setcap cap_net_bind_service=+ep `readlink -f \`which node\``
     - run: node app.js
     
