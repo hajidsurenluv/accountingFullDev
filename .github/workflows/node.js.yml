@@ -29,7 +29,8 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install
-    - run: cd ./frontend/ && ls
+    - run: cd ./frontend/ && npm run build
+    - run: ls
     # - run: npm install -g @vue/cli
     # - run: ls
     # - run: npm install
